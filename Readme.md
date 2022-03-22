@@ -1,0 +1,3 @@
+# **Información Importante**
+
+Mi nombre es Eliezer Polidor, debido q que en muchas entrevistas de trabajo me han preguntado como he aprendido los diferentes Skill que manejo, y para mostrar que esto ha sido de manera autodidacta donde he tenido que consultar Block, foros, cursos online y la documentación oficial de los programas que he aprendido, he querido aprovechar que estoy perfeccionando mis conocimientos en React Js, asi como en las librerias Redux y Router, para desarrollar este curso para todas aquellas personas que se estan iniciando o que tienen un nivel medio como yo, he tratado de dar explicaciones simples con ejemplos practicos ademas de hacer referencia por si el lector desea ampliar algo mas.
