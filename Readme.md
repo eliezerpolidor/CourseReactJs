@@ -6,3 +6,7 @@ Mi nombre es **Eliezer Polidor**, debido q que en muchas entrevistas de trabajo 
 
 Inicialmente vas a ver una pantalla principal el cual es el componente principal, este lo dividi en 3 componentes, componente de cabercera, componente izquierdo y componente central.
 
+## **Ejemplos.
+
+Esta parte esta conformada por una serie de ejemplos donde se muestra como se componentes, estados, etc.
+
