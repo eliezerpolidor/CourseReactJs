@@ -20,6 +20,6 @@ Inicialmente vas a ver una pantalla principal el cual es el componente principal
 
 Esta parte esta conformada por una serie de ejemplos donde se muestra como se componentes, estados, etc.
 
-## **Ejemplo 1
+
 
 
