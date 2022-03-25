@@ -6,7 +6,7 @@ ___
 Mi nombre es **Eliezer Polidor**, soy Desarrollador WEB, estoy en permanente formación consultando Block, foros, cursos online y la documentación oficial de las Tecnologías y Framework mas requeridos en el mercado laboral. Actualmente me encuentro actualizando mis conocimientos del Framework React Js, asi como de las librerias Redux y Router, para lo cual me encuentro desarrollando este curso en ReactJs el mismo le podria ser de utilidad a todas aquellas personas que se estan iniciando o que tienen un nivel medio como yo, he tratado de dar explicaciones simples con ejemplos practicos ademas de hacer referencia a los diferentes link que he consultado esto por si el lector desea ir directo a la fuente y ampliar algo mas.
 ___
 ## **Motivo por el que Desarrolle este Curso**
-El objetivo principal que me motivo a desarrollar este curso de ReactJS es que sirva de guia de referencia para aquellas personas que deseen contratar mis servicios como Desarrollador WEB, permitiendoles informar cual es mi domino a nivel profesional de este Framework, y si estos conocimientos puedan serles de alguna utilidad.
+Aparte de realizar un aporte a la comunidad de Desarrolladores el otro motivo que me llevo a desarrollar este curso de ReactJS es que sirva de guia de referencia para aquellas personas que deseen contratar mis servicios como Desarrollador WEB, permitiendoles informar cual es mi domino a nivel profesional de este Framework, y si estos conocimientos puedan serles de alguna utilidad.
 ___
 ## **Programas Usados en este curso:**
 1. **Framework ReactJs.**
@@ -32,6 +32,7 @@ Inicialmente vas a ver una pantalla principal el cual es el componente principal
 1. Componente de Cabercera, encontraras el nombre del Framework.
 2. Componente izquierdo, hay 4 opciones.
 3. Componente central, al seleccionar cualquier opción de la izquierda en este componente se desplegara mas detalles de la opción que se escogio.
+
 
 
 
