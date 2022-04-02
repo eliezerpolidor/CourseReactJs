@@ -1,0 +1,77 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background: #00c6ff;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0072ff, #00c6ff);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    min-height: 20vh;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-body {
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    background: #00c6ff;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0072ff, #00c6ff);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    min-height: 50vh;
+    align-items: flex-start;
+    justify-content: left;
+    font-size: calc(7px + 2vmin);
+    color: white;
+}
+
+.App-nav {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background: #00c6ff;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0072ff, #00c6ff);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    align-items: flex-start;
+    text-align: left;
+    width: fit-content;
+    white-space: nowrap;
+    font-size: calc(7px + 2vmin);
+    color: white;
+}
+
+.App-content {
+    padding: 20px;
+    background: #c2e59c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #64b3f4, #c2e59c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    min-height: 60vh;
+    width: 100%;
+    align-items: flex-start;
+    text-align: left;
+    font-size: calc(7px + 2vmin);
+    color: black;
+}
+
+.App-link {
+    color: #fff;
+}
