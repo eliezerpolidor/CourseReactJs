@@ -33,7 +33,8 @@ Inicialmente vas a ver una pantalla principal el cual es el componente principal
 2. Componente izquierdo, hay 4 opciones.
 3. Componente central, al seleccionar cualquier opción de la izquierda en este componente se desplegara mas detalles de la opción que se escogio.
 
-
+Ejemplo1
+02042022
 
 
 
